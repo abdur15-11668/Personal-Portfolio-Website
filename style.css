@@ -277,7 +277,7 @@ hr{
     margin: 2rem 8rem;
 }
 .my-services .services-title .service h3,p{
-    color: black;
+    color: white;
     text-align: center;
     display: flex;
     flex-direction: column;
